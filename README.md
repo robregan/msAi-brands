@@ -21,3 +21,11 @@
 # Run
 
 `npm start`
+
+# extra things I had to do to make it work from the template..
+      - change the 'name' from package.json to '<one-word>' it was formatted "how are you doing" and was giving errors/red lines so maybe it doesnt like the spaces.
+      - npm i axios 
+      - npm i nodemon
+      - delete everything in app.js that doesnt have to do w finding brands
+      - configure the ejs to display what you want to the user
+    
